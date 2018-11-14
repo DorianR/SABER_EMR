@@ -1,0 +1,12 @@
+Nota para sacar el nuevo reporte de BD SABER
+los datos para el nuevo reporte estaran en las siguientes tablas
+
+-InfPaciente
+-MotIngresoARCU-V3
+-SignosVitalesExFisV3
+-ExFisV3
+-ImpClinicaV3
+-TipoCaso
+-Egreso
+-ServicioIngP
+13

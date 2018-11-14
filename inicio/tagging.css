@@ -1,0 +1,122 @@
+
+#pgtitle
+{
+	margin: 0px 0px 20px;
+	font-size: 18pt;
+}
+#container
+{
+	display: block;
+	width: 850px;
+	height: 300px;
+	margin: 0 auto;
+}
+#imgtag
+{
+	position: relative;
+	min-width: 300px;
+	min-height: 300px;
+	float: none;
+	border: 3px solid #FFF;
+	cursor: crosshair;
+	text-align: center;
+}
+#taglist
+{
+	width: 300px;
+	min-height: 200px;
+	height: auto !important;
+	height: 200px;
+	float: right;
+	padding: 10px;
+	margin-left: 20px;
+	color: #000;
+    text-align: right;
+    position:relative;
+    top:-520px;
+    left:-40px
+    
+    
+}
+.tagview
+{
+	border: 1px solid #F10303;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+/*display:none;*/
+	opacity: 0;
+	color: #FFFFFF;
+	text-align: center;
+}
+.square
+{
+	display:block;
+	height: 20px;
+    
+}
+.person
+{
+	background: #282828;
+	border-top: 1px solid #F10303;
+    width: 80px;
+    height: 50px;
+    visibility: hidden;
+}
+#tagit
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 240px;
+	border: 1px solid #D7C7C7;
+}
+#tagit .box
+{
+	border: 1px solid #F10303;
+	width: 0px;
+	height: 0px;
+	float:left;
+}
+#tagit .name
+{
+	float: left;
+	background-color: #FFF;
+	width: 30px;
+	height: 145px;
+	padding: 5px;
+	font-size: 10pt;
+}
+#tagit DIV.text
+{
+	margin-bottom: 5px;
+}
+#tagit INPUT[type=text]
+{
+    padding: 10px;
+	margin-bottom: 5px;
+}
+#tagit #tagname
+{
+	width: 180px;
+}
+#taglist OL
+{
+	padding: 0 20px;
+	float: left;
+	cursor: pointer;
+}
+#taglist OL A
+{
+}
+#taglist OL A:hover
+{
+	text-decoration: underline;
+}
+.tagtitle
+{
+	font-size: 14px;
+	text-align: center;
+	width: 100%;
+	float: left;
+}

@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb166905-5ad9-4f20-9731-36f1e958ab61" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="scriptSABER-v3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/scriptSABER-v3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="1120" column="1" lean-forward="true" selection-start-line="1120" selection-start-column="1" selection-end-line="1120" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scriptSABER.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/scriptSABER.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="1094" column="18" lean-forward="true" selection-start-line="1094" selection-start-column="18" selection-end-line="1094" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="infBasicP.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inicio/infBasicP.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="197" column="125" lean-forward="false" selection-start-line="197" selection-start-column="125" selection-end-line="197" selection-end-column="125" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emergencia.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inicio/emergencia.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="329" column="12" lean-forward="true" selection-start-line="329" selection-start-column="12" selection-end-line="329" selection-end-column="12" />
+              <folding>
+                <element signature="e#18262#18284#0#HTML" expanded="true" />
+                <element signature="e#18457#18479#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardAdmin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inicio/DashboardAdmin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="985">
+              <caret line="167" column="2" lean-forward="false" selection-start-line="167" selection-start-column="2" selection-end-line="167" selection-end-column="2" />
+              <folding>
+                <marker date="1521847655505" expanded="true" signature="265:294" ph="SELECT * FRO... cargoenhospital" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScriptEmergencia.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/ScriptEmergencia.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="609" column="3" lean-forward="false" selection-start-line="609" selection-start-column="3" selection-end-line="609" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NtaEnfermeria</find>
+      <find>OrdenesEnf</find>
+      <find>Orde</find>
+      <find>egresov3</find>
+      <find>$filaServicio</find>
+      <find>$filaEgreso</find>
+      <find>Quedo</find>
+      <find>MIngres</find>
+      <find>Hospitalizado</find>
+      <find>feEg</find>
+      <find>moment</find>
+      <find>QuedoHos</find>
+      <find>imprimir</find>
+      <find>cerr</find>
+      <find>Evolucion</find>
+      <find>DvLlegoEn</find>
+      <find>if</find>
+      <find>Agrega</find>
+      <find>EstCiv</find>
+      <find>Reportes</find>
+      <find>PNombre</find>
+      <find>estad</find>
+      <find>respuesta</find>
+      <find>Guardar</find>
+      <find>modifi</find>
+      <find>UsuarioMod</find>
+      <find>UsrLog</find>
+      <find>HEAD</find>
+      <find>Orden</find>
+      <find>InsOrden</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Controlador/EvaluacionController.php" />
+        <option value="$PROJECT_DIR$/php/datoPac.php" />
+        <option value="$PROJECT_DIR$/css/estilo.css" />
+        <option value="$PROJECT_DIR$/php/ReporteRecordOp.php" />
+        <option value="$PROJECT_DIR$/php/enviaRecOpe.php" />
+        <option value="$PROJECT_DIR$/conexion/conectar.php" />
+        <option value="$PROJECT_DIR$/js/scriptSABER.js" />
+        <option value="$PROJECT_DIR$/php/EnviaEditaMotCon.php" />
+        <option value="$PROJECT_DIR$/Models/EmergenciaV3model.php" />
+        <option value="$PROJECT_DIR$/Controlador/EmergenciaV3Controller.php" />
+        <option value="$PROJECT_DIR$/php/EditaContactPac.php" />
+        <option value="$PROJECT_DIR$/php/EditaMLLegada.php" />
+        <option value="$PROJECT_DIR$/php/autocomptr.php" />
+        <option value="$PROJECT_DIR$/inicio/autocomplete.php" />
+        <option value="$PROJECT_DIR$/inicio/pruebaFIND.html" />
+        <option value="$PROJECT_DIR$/php/EditaEnviaVitalesA.php" />
+        <option value="$PROJECT_DIR$/php/searchOcupacion.php" />
+        <option value="$PROJECT_DIR$/php/searchImpc1.php" />
+        <option value="$PROJECT_DIR$/php/searchMotIngreso.php" />
+        <option value="$PROJECT_DIR$/js/ScriptInfBasicP.js" />
+        <option value="$PROJECT_DIR$/Models/PacienteModel.php" />
+        <option value="$PROJECT_DIR$/Controlador/PacientesController.php" />
+        <option value="$PROJECT_DIR$/js/Pacientes.js" />
+        <option value="$PROJECT_DIR$/inicio/infBasicP.php" />
+        <option value="$PROJECT_DIR$/php/Reporte3.php" />
+        <option value="$PROJECT_DIR$/inicio/infBasicPV3.php" />
+        <option value="$PROJECT_DIR$/php/searchDireccion" />
+        <option value="$PROJECT_DIR$/php/searchDireccion.php" />
+        <option value="$PROJECT_DIR$/php/Reporte4.php" />
+        <option value="$PROJECT_DIR$/php/LogAdmUsr.php" />
+        <option value="$PROJECT_DIR$/php/Reporte1.php" />
+        <option value="$PROJECT_DIR$/inicio/dashboard.php" />
+        <option value="$PROJECT_DIR$/inicio/login.php" />
+        <option value="$PROJECT_DIR$/php/LogueoModif.php" />
+        <option value="$PROJECT_DIR$/php/ModiOrdenes.php" />
+        <option value="$PROJECT_DIR$/php/RegUsr.php" />
+        <option value="$PROJECT_DIR$/php/EnviaInfBPacV3.php" />
+        <option value="$PROJECT_DIR$/php/OperacionesV3EME.php" />
+        <option value="$PROJECT_DIR$/php/searchPaciente.php" />
+        <option value="$PROJECT_DIR$/inicio/emergencia.php" />
+        <option value="$PROJECT_DIR$/js/ScriptEmergencia.js" />
+        <option value="$PROJECT_DIR$/js/scriptSABER-v3.js" />
+        <option value="$PROJECT_DIR$/inicio/DashboardAdmin.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="673" />
+    <option name="width" value="694" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="saberV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saberV3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="saberV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saberV3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="inicio" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="saberV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saberV3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="saberV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saberV3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../saberV32018" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\saberV3\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\saberV3\inicio" />
+      <recent name="C:\wamp\www\saberV3\js" />
+      <recent name="C:\wamp\www\saberV3\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.saberV3">
+    <configuration name="saberV3" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.saberV3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb166905-5ad9-4f20-9731-36f1e958ab61" name="Default" comment="" />
+      <created>1502312000045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502312000045</updated>
+      <workItem from="1502312006586" duration="11473000" />
+      <workItem from="1502483247446" duration="15000" />
+      <workItem from="1502838153027" duration="26026000" />
+      <workItem from="1503189433764" duration="313105000" />
+      <workItem from="1507323231531" duration="52208000" />
+      <workItem from="1508777939076" duration="41289000" />
+      <workItem from="1511278307592" duration="740000" />
+      <workItem from="1511902792902" duration="1623000" />
+      <workItem from="1512142020698" duration="58100000" />
+      <workItem from="1513099516678" duration="14365000" />
+      <workItem from="1513372637535" duration="28335000" />
+      <workItem from="1514909610469" duration="4803000" />
+      <workItem from="1515423674427" duration="22538000" />
+      <workItem from="1516033178907" duration="7078000" />
+      <workItem from="1516223407709" duration="7355000" />
+      <workItem from="1516655044777" duration="17454000" />
+      <workItem from="1516815612438" duration="19059000" />
+      <workItem from="1516983404385" duration="3511000" />
+      <workItem from="1516987426496" duration="2360000" />
+      <workItem from="1517240977324" duration="39949000" />
+      <workItem from="1518037828809" duration="4064000" />
+      <workItem from="1518451005129" duration="1698000" />
+      <workItem from="1518799092635" duration="1869000" />
+      <workItem from="1520549933514" duration="526000" />
+      <workItem from="1520978522055" duration="2460000" />
+      <workItem from="1521840254883" duration="3010000" />
+    </task>
+    <task id="LOCAL-00001" summary="Cambios Busqueda Paciente">
+      <created>1502320806472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502320806472</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BdModel, BdBack, Notas, BPaciente.">
+      <created>1502919767405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502919767405</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BdModel, BdBack, Notas, BPaciente.">
+      <created>1502920266058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502920266058</updated>
+    </task>
+    <task id="LOCAL-00004" summary="BdModel, BdBack, Notas, BPaciente.">
+      <created>1503376473849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503376473849</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FrontE(Dash-FHos),Bd,FontAws">
+      <created>1503376653342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503376653342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FrontE(Dash-FHos),Bd,FontAws">
+      <created>1503376702798</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1503376702798</updated>
+    </task>
+    <task id="LOCAL-00007" summary="BackEnd-InfPrin, Js, Php, Envio Datos.">
+      <created>1503680162250</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1503680162250</updated>
+    </task>
+    <task id="LOCAL-00008" summary="(Insertar,Actualizar) llegada, compañante, ingreso, antecedentes, fecha">
+      <created>1504567312626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1504567312626</updated>
+    </task>
+    <task id="LOCAL-00009" summary="(Insertar,Actualizar) llegada, compañante, ingreso, antecedentes, fecha">
+      <created>1504654124169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1504654124169</updated>
+    </task>
+    <task id="LOCAL-00010" summary="(Insertar,Actualizar) llegada, compañante, ingreso, antecedentes, fecha">
+      <created>1504654197668</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1504654197668</updated>
+    </task>
+    <task id="LOCAL-00011" summary="(Insertar,Actualizar) Conciente,ExFisico, ImpClinica">
+      <created>1504654277266</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1504654277266</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Cambios a BD">
+      <created>1504714976768</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1504714976768</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Cambios a BD">
+      <created>1504719583309</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1504719583309</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Insertar Actualizar(Todos los campos)">
+      <created>1504733987258</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1504733987259</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Insertar Actualizar(Todos los campos)">
+      <created>1504738921057</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1504738921057</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Insertar Actualizar(Todos los campos)">
+      <created>1504739150603</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1504739150603</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Insertar Actualizar(Todos los campos)">
+      <created>1504739218854</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1504739218854</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Buscar, guardar,deshabilitar Impresiones clinicas a,b,c,d">
+      <created>1505171497773</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1505171497773</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Validacion de Campos InfBasicaPaciente.">
+      <created>1505258856573</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1505258856573</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Re-validaciones Campos">
+      <created>1505750733658</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1505750733658</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Re-validaciones Campos">
+      <created>1505752208973</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1505752208973</updated>
+    </task>
+    <task id="LOCAL-00022" summary="buscadores, ocupacion, Motivo ingreso, Impresiones clinicas (a,b,c,d), terminados">
+      <created>1506029426805</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1506029426805</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ToolTips">
+      <created>1506549810420</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1506549810420</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ToolTips">
+      <created>1506550235225</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1506550235225</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ToolTips">
+      <created>1506553667305</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1506553667305</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Notas de Enfermeria">
+      <created>1506700044942</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1506700044942</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Notas de Enfermeria">
+      <created>1506701841077</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1506701841077</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Notas de Enfermeria">
+      <created>1511278421031</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1511278421031</updated>
+    </task>
+    <task id="LOCAL-00029" summary="EnfermeriaBD">
+      <created>1512577697672</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1512577697672</updated>
+    </task>
+    <task id="LOCAL-00030" summary="bd-sql">
+      <created>1512598060731</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1512598060731</updated>
+    </task>
+    <task id="LOCAL-00031" summary="modificacion de tablas&#10; *Ordenes&#10; *SignosVitalesExFisV3">
+      <created>1512685168105</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1512685168105</updated>
+    </task>
+    <task id="LOCAL-00032" summary="modificacion en Ordenes">
+      <created>1513101656784</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1513101656784</updated>
+    </task>
+    <task id="LOCAL-00033" summary="bloque de botones, Sugerencia de direcciones, Seleccion de servicio atendido,">
+      <created>1513787326911</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1513787326911</updated>
+    </task>
+    <task id="LOCAL-00034" summary="bloque de botones, Sugerencia de direcciones, Seleccion de servicio atendido,">
+      <created>1513787419010</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1513787419010</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Modifar Informacion, y Verificacion de cuenta Admin para modificar">
+      <created>1516815089985</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1516815089985</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Modifar Informacion, y Verificacion de cuenta Admin para modificar">
+      <created>1516815776367</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1516815776368</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Modifar Informacion, y Verificacion de cuenta Admin para modificar">
+      <created>1516815927452</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1516815927452</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Usuarios y Login">
+      <created>1516943045909</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1516943045909</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Usuarios y Login">
+      <created>1516984815253</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1516984815253</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Usuarios y Login">
+      <created>1516985896816</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1516985896816</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Usuarios y Login">
+      <created>1518038275743</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1518038275743</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Usuarios y Login">
+      <created>1518038523012</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1518038523012</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Usuarios y Login">
+      <created>1518112029987</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1518112029987</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Usuarios y Login">
+      <created>1518799773772</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1518799773772</updated>
+    </task>
+    <task id="LOCAL-00045" summary="modificacion BD y Scripts">
+      <created>1520550408837</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1520550408837</updated>
+    </task>
+    <task id="LOCAL-00046" summary="modificacion BD y Scripts">
+      <created>1520980949817</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1520980949818</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Logueo Enfermeros">
+      <created>1521840813330</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1521840813331</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Dashboard admin">
+      <created>1521847757171</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1521847757171</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="685013000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20744681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969605" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.506079" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20230263" sideWeight="0.49392098" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2236842" sideWeight="0.4969605" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969605" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.506079" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20230263" sideWeight="0.49392098" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2236842" sideWeight="0.4969605" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20744681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambios Busqueda Paciente" />
+    <MESSAGE value="BdModel, BdBack, Notas, BPaciente." />
+    <MESSAGE value="FrontE(Dash-FHos),Bd,FontAws" />
+    <MESSAGE value="BackEnd-InfPrin, Js, Php, Envio Datos." />
+    <MESSAGE value="(Insertar,Actualizar) llegada, compañante, ingreso, antecedentes, fecha" />
+    <MESSAGE value="(Insertar,Actualizar) Conciente,ExFisico, ImpClinica" />
+    <MESSAGE value="Cambios a BD" />
+    <MESSAGE value="Insertar Actualizar(Todos los campos)" />
+    <MESSAGE value="Buscar, guardar,deshabilitar Impresiones clinicas a,b,c,d" />
+    <MESSAGE value="Validacion de Campos InfBasicaPaciente." />
+    <MESSAGE value="Re-validaciones Campos" />
+    <MESSAGE value="buscadores, ocupacion, Motivo ingreso, Impresiones clinicas (a,b,c,d), terminados" />
+    <MESSAGE value="ToolTips" />
+    <MESSAGE value="Notas de Enfermeria" />
+    <MESSAGE value="EnfermeriaBD" />
+    <MESSAGE value="bd-sql" />
+    <MESSAGE value="modificacion de tablas&#10; *Ordenes&#10; *SignosVitalesExFisV3" />
+    <MESSAGE value="modificacion en Ordenes" />
+    <MESSAGE value="bloque de botones, Sugerencia de direcciones, Seleccion de servicio atendido," />
+    <MESSAGE value="Modifar Informacion, y Verificacion de cuenta Admin para modificar" />
+    <MESSAGE value="Usuarios y Login" />
+    <MESSAGE value="modificacion BD y Scripts" />
+    <MESSAGE value="Logueo Enfermeros" />
+    <MESSAGE value="Dashboard admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dashboard admin" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/tooltipster.bundle.min.js" />
+    <entry file="file://$PROJECT_DIR$/css/tooltipster.bundle.min.css" />
+    <entry file="file://$PROJECT_DIR$/php/searchMotIngreso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="494" column="22" lean-forward="false" selection-start-line="494" selection-start-column="22" selection-end-line="494" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/TriajeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagenes/LogoSalud.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/conectar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/ResidenteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/autocomptr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/PacientesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/PacienteModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/EditaInfBasicP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Reporte3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="152" column="65" lean-forward="true" selection-start-line="152" selection-start-column="65" selection-end-line="152" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/moment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="358" column="7" lean-forward="false" selection-start-line="358" selection-start-column="7" selection-end-line="358" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-ui-1.12.1/jquery-ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="154" column="11" lean-forward="false" selection-start-line="154" selection-start-column="11" selection-end-line="154" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conexion/pr" />
+    <entry file="file://$PROJECT_DIR$/inicio/infBasicPV3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="1194" column="119" lean-forward="false" selection-start-line="1194" selection-start-column="119" selection-end-line="1194" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ScriptInfBasicP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="82" column="39" lean-forward="false" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/searchOcupacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/searchImpc1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/EditaEnviaExamenFisico.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/enviaTriaje1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/EditaDisposicionPaciente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Reporte4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="737" column="0" lean-forward="false" selection-start-line="737" selection-start-column="0" selection-end-line="742" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/searchDireccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/enviaVitaleA.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/EnviaEvaluacionPlan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Pacientes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/ActualizaDatoPac.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/LogAdmUsr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/EditaEnviaTriage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/sesion.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Reporte1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Reporte2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="491" column="20" lean-forward="false" selection-start-line="491" selection-start-column="20" selection-end-line="491" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="100" column="2" lean-forward="false" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="123" column="2" lean-forward="false" selection-start-line="123" selection-start-column="2" selection-end-line="123" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/RegUsr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="2" lean-forward="false" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+          <folding>
+            <marker date="1520550328980" expanded="true" signature="374:649" ph="INSERT INTO PersonalIngInfo... " />
+            <marker date="1520550328980" expanded="true" signature="1192:1366" ph="INSERT INTO Login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/OperacionesV3EME.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
+          <folding>
+            <marker date="1520978863806" expanded="true" signature="249:336" ph="UPDATE ${$No... " />
+            <marker date="1520978863806" expanded="true" signature="662:742" ph="UPDATE ${$No... " />
+            <marker date="1520978863806" expanded="true" signature="15059:15305" ph="INSERT INTO Ordenes... " />
+            <marker date="1520978863806" expanded="true" signature="15818:15925" ph="SELECT idPac... infpaciente" />
+            <marker date="1520978863806" expanded="true" signature="16454:16686" ph="INSERT INTO Enfermeria... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/ModiOrdenes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <marker date="1517324056828" expanded="true" signature="298:465" ph="UPDATE orden... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/LogueoModif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="31" column="2" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <folding>
+            <marker date="1517852727039" expanded="true" signature="298:337" ph="select * fro... Login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/EnviaInfBPacV3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="101" column="2" lean-forward="true" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="2" />
+          <folding>
+            <marker date="1520550328681" expanded="true" signature="969:1721" ph="INSERT INTO ${$TablaInsertar}" />
+            <marker date="1520550328681" expanded="true" signature="4264:4889" ph="UPDATE ${$Ta... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/searchPaciente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="191" column="2" lean-forward="false" selection-start-line="191" selection-start-column="2" selection-end-line="191" selection-end-column="2" />
+          <folding>
+            <marker date="1520550329077" expanded="true" signature="309:588" ph="SELECT * FRO... infpaciente" />
+            <marker date="1520550329077" expanded="true" signature="805:1090" ph="SELECT * FRO... traumainfpaciente" />
+            <marker date="1520550329077" expanded="true" signature="1312:1595" ph="SELECT * FRO... ciruinfpaciente" />
+            <marker date="1520550329077" expanded="true" signature="1817:2103" ph="SELECT * FRO... atenvicinfpaciente" />
+            <marker date="1520550329077" expanded="true" signature="2326:2610" ph="SELECT * FRO... pediainfpaciente" />
+            <marker date="1520550329077" expanded="true" signature="3220:3295" ph="SELECT * FRO... motingresoarcuv3" />
+            <marker date="1520550329077" expanded="true" signature="3743:3809" ph="SELECT * FRO... exfisv3" />
+            <marker date="1520550329077" expanded="true" signature="4251:4330" ph="SELECT * FRO... signosvitalesexfisv3" />
+            <marker date="1520550329077" expanded="true" signature="4767:4866" ph="SELECT Descr... impclinicav3" />
+            <marker date="1520550329077" expanded="true" signature="5308:5377" ph="SELECT * FRO... tipocasov3" />
+            <marker date="1520550329077" expanded="true" signature="5819:5899" ph="SELECT * FRO... medinterresponsablev3" />
+            <marker date="1520550329077" expanded="true" signature="6340:6407" ph="SELECT * FRO... egresov3" />
+            <marker date="1520550329077" expanded="true" signature="6851:6917" ph="SELECT * FRO... ordenes" />
+            <marker date="1520550329077" expanded="true" signature="7358:7427" ph="SELECT * FRO... Enfermeria" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/RepPaciente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483472090000" expanded="true" signature="1247:1293" ph="SELECT * FRO... infpaciente" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio/infBasicP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="197" column="125" lean-forward="false" selection-start-line="197" selection-start-column="125" selection-end-line="197" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ScriptEmergencia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="609" column="3" lean-forward="false" selection-start-line="609" selection-start-column="3" selection-end-line="609" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scriptSABER-v3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="1120" column="1" lean-forward="true" selection-start-line="1120" selection-start-column="1" selection-end-line="1120" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scriptSABER.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="1094" column="18" lean-forward="true" selection-start-line="1094" selection-start-column="18" selection-end-line="1094" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio/emergencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="329" column="12" lean-forward="true" selection-start-line="329" selection-start-column="12" selection-end-line="329" selection-end-column="12" />
+          <folding>
+            <element signature="e#18262#18284#0#HTML" expanded="true" />
+            <element signature="e#18457#18479#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio/DashboardAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="985">
+          <caret line="167" column="2" lean-forward="false" selection-start-line="167" selection-start-column="2" selection-end-line="167" selection-end-column="2" />
+          <folding>
+            <marker date="1521847655505" expanded="true" signature="265:294" ph="SELECT * FRO... cargoenhospital" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
